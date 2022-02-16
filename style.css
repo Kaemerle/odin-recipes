@@ -1,0 +1,21 @@
+.header {
+    color: red;
+    font-weight: bolder;
+    font-family: sans-serif;
+}
+.text {
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.frog {
+    height: 150px;
+    width: auto;
+}
+.bella {
+    height: 400px;
+    width: auto;
+}
+.food {
+    height: 300px;
+    width: auto;
+}
