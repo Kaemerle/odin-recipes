@@ -1,3 +1,4 @@
+
 .header {
     color: red;
     font-weight: bolder;
@@ -15,7 +16,18 @@
     height: 400px;
     width: auto;
 }
+.bell {
+    height: 300px;
+    width: auto;
+    float: inline-end;
+}
 .food {
     height: 300px;
     width: auto;
+}
+
+.box {
+    background: pink;
+    padding: 400px;
+    margin: 400px;
 }
